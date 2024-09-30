@@ -6,7 +6,19 @@
     "test": "echo \"Running tests\" && exit 0"
   },
   "keywords": [],
-  "author": "",
+  "author": "mehmet ali kaba",
   "license": "ISC",
-  "description": ""
+  "description": "Mehmet's project",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabamehmetali/Comp3104-labs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kabamehmetali/Comp3104-labs/issues"
+  },
+  "homepage": "https://github.com/kabamehmetali/Comp3104-labs#readme"
 }
