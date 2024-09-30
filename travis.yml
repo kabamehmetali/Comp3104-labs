@@ -11,4 +11,4 @@ github_token: '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'
 >>>>>>> refs/remotes/origin/main
 local_dir: build
 on:
-branch: master
+branch: main
